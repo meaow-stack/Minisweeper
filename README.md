@@ -24,6 +24,15 @@ GridBreaker is a sleek, feature-rich remake of the classic Minesweeper game, bui
 ---
 
 ## 🖼️ Screenshots
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 161935" src="https://github.com/user-attachments/assets/a348666b-67c8-442e-880d-d05d3d269578" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 121405" src="https://github.com/user-attachments/assets/2aa2b333-9823-4da2-a03a-e476ff27c9c7" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 121353" src="https://github.com/user-attachments/assets/18ea3938-8485-40c0-bd84-55912a3b2a5c" />
+
+<img width="786" height="453" alt="Screenshot 2025-08-09 121425" src="https://github.com/user-attachments/assets/610e72ac-c03b-4fb7-b279-b7cd4808cc3b" />
+
+
 
 > *(Insert screenshots here showing gameplay, splash screen, and theme toggle)*
 
